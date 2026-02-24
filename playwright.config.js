@@ -1,4 +1,3 @@
-// Playwright test configuration
 import { defineConfig, devices } from '@playwright/test';
 import process from 'process';
 import dotenv from 'dotenv';
